@@ -32,7 +32,7 @@ namespace clase5.Controllers
                         Name = item.Name,
                         Company = item.Company,
                         Gender = item.Gender,
-                        Release = item.Realease
+                        Release = item.Realease                      
                     }       
                 );
             }

@@ -9,6 +9,8 @@ public class Game
     public bool IsMultiPlayer {get; set;}
     public decimal Price {get;set;}
     public string Company {get;set;}
+    public string Image {get;set;}
+    public int GameConsoleId {get;set;}
 }
 
 /*public enum Clasification{

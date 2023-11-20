@@ -10,7 +10,7 @@ using clase5.Data;
 namespace clase5.Migrations
 {
     [DbContext(typeof(VideoGameContext))]
-    [Migration("20231120144454_add_prop_image_in_game")]
+    [Migration("20231120161841_add_prop_image_in_game")]
     partial class add_prop_image_in_game
     {
         /// <inheritdoc />
